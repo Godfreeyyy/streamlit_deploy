@@ -447,6 +447,8 @@ if (selected == 'Price Stock Prediction'):
 
         # Edit the layout
         layout = dict(title = 'Moving Averages for '+str(ticker),
+                    height=650,
+                    width=800,
                     xaxis = dict(title = 'Date'),
                     yaxis = dict(title = 'Price'),
                     annotations=[
