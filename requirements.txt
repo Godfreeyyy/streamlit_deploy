@@ -11,3 +11,7 @@ keras==2.12.0
 tensorflow==2.12.0
 statsmodels==0.14.0
 scipy==1.10.1
+pypistats==1.5.0
+numba==0.57.0
+prophet==1.1.4
+statsmodels==0.14.0
